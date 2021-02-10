@@ -12,4 +12,4 @@
 - ⚡ Fun fact: I speak 3 languages ( Gujarati, Hindi, English)
 
 ### How to reach me
-[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://www.linkedin.com/in/khushali-jiyani-3b49211b7/?locale=en_US" />][linkedin]
+[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://www.linkedin.com/in/khushali-jiyani-3b49211b7/" />][linkedin]
