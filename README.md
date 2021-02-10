@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hello World, I'm Khushi  👋
 
-<!--
-**Khushi-24/Khushi-24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## I'm a Android Developer
+- 🔭 I’m currently working on an Earthquake App 
+- 🌱 I’m currently learning Networking in Android Development
+- 👯 I’m looking to collaborate on open source
+- 💬 Ask me about ... Anything
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I speak 3 languages ( Gujarati, Hindi, English)
+
+### How to reach me
+[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://www.linkedin.com/in/khushali-jiyani-3b49211b7/?locale=en_US" />][linkedin]
