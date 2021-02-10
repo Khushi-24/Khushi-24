@@ -12,4 +12,4 @@
 - ⚡ Fun fact: I speak 3 languages ( Gujarati, Hindi, English)
 
 ### How to reach me
-[![Linkedin Badge](https://img.shields.io/badge/-sivramshastri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/khushali-jiyani-3b49211b7/)](https://www.linkedin.com/in/khushali-jiyani-3b49211b7/)
+[![Linkedin Badge](https://img.shields.io/badge/-Khushali_Jiyani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/khushali-jiyani-3b49211b7/)](https://www.linkedin.com/in/khushali-jiyani-3b49211b7/)
