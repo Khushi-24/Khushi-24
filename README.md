@@ -35,10 +35,10 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khushi-24&show_icons=true&locale=en&layout=compact" alt="khushi-24" /></p></br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khushi-24&show_icons=true&locale=en&layout=compact" alt="khushi-24" /></p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khushi-24&show_icons=true&locale=en" alt="khushi-24" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khushi-24&show_icons=true&locale=en" alt="khushi-24" /></p></br>
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khushi-24&" alt="khushi-24" /></p>
