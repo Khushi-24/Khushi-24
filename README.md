@@ -5,7 +5,6 @@
 
 <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
 
-</br>
 
 - 🔭 I’m currently working on **Earthquake app**
 
@@ -39,10 +38,11 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khushi-24&show_icons=true&locale=en&layout=compact" alt="khushi-24" /></p>
 
-</br>
-</br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khushi-24&show_icons=true&locale=en" alt="khushi-24" /></p>
+
+</br>
+</br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khushi-24&" alt="khushi-24" /></p>
 
