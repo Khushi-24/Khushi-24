@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Khushi</h1>
 <h2 align="center">A passionate Android developer from India</h2>
 
-<img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushi-24&label=Profile%20views&color=0e75b6&style=flat" alt="khushi-24" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khushi-24" alt="khushi-24" /></a> </p>
+
+<img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
 
 - 🔭 I’m currently working on **Earthquake app**
 
@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/Khushali Jiyani" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Khushali Jiyani" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/khushali-jiyani-3b49211b7/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Khushali Jiyani" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/khushi_24" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="khushi_24" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/khushi_jiyani1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="khushi_jiyani1" height="30" width="40" /></a>
 </p>
