@@ -1,26 +1,7 @@
-### Hello World, I'm Khushi  👋
-
- <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
-
-
-## I'm a Android Developer
-- 🔭 I’m currently working on an Earthquake App 
-- 🌱 I’m currently learning Networking in Android Development
-- 👯 I’m looking to collaborate on open source
-- 💬 Ask me about ... Anything
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I speak 3 languages ( Gujarati, Hindi, English)
-
-### How to reach me
-[![Linkedin Badge](https://img.shields.io/badge/-Khushali_Jiyani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/khushali-jiyani-3b49211b7/)](https://www.linkedin.com/in/khushali-jiyani-3b49211b7/)
-
-<br />
-
-### Languages and Tools:
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-
 <h1 align="center">Hi 👋, I'm Khushi</h1>
-<h3 align="center">A passionate Android developer from India</h3>
+<h2 align="center">A passionate Android developer from India</h2>
+
+<img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushi-24&label=Profile%20views&color=0e75b6&style=flat" alt="khushi-24" /> </p>
 
@@ -36,10 +17,11 @@
 
 - 📫 How to reach me **khushi.jiyani1@gmail.com**
 
+- ⚡ I speak 3 languages **( Gujarati, Hindi, English)**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/khushali jiyani" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="khushali jiyani" height="30" width="40" /></a>
-<a href="https://instagram.com/khushali jiyani" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="khushali jiyani" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Khushali Jiyani" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Khushali Jiyani" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/khushi_24" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="khushi_24" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/khushi_jiyani1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="khushi_jiyani1" height="30" width="40" /></a>
 </p>
