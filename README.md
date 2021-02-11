@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Khushi</h1>
 <h2 align="center">A passionate Android developer from India</h2>
 
+</br>
+
 <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
+
+</br>
 
 - 🔭 I’m currently working on **Earthquake app**
 
@@ -34,6 +38,9 @@
 </br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khushi-24&show_icons=true&locale=en&layout=compact" alt="khushi-24" /></p>
+
+</br>
+</br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khushi-24&show_icons=true&locale=en" alt="khushi-24" /></p>
 
