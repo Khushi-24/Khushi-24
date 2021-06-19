@@ -6,9 +6,9 @@
 <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
 
 
-- 🔭 I’m currently working on **Stock Market Desktop app**
+- 🔭 I’m currently working on **Street Fighter Game**
 
-- 🌱 I’m currently learning **Networking in Android Development**
+- 🌱 I’m currently learning **Game Development**
 
 - 👯 I’m looking to collaborate on **open source**
 
