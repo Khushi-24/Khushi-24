@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Khushi</h1>
-<h2 align="center">A passionate Android developer from India</h2>
+<h2 align="center">A Spring Boot Developer from India</h2>
 
 </br>
 
 <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
 
 
-- 🔭 I’m currently working on **Street Fighter Game**
+- 🔭 I’m currently working as **Associative Software Engineer** at **Openxcell Technolab**
 
-- 🌱 I’m currently learning **Game Development**
+- 🌱 I’m currently exploring **Backend Development Technologies**
 
 - 👯 I’m looking to collaborate on **open source**
 
